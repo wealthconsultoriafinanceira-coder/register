@@ -1,0 +1,11 @@
+{
+  "description": "Redirect for scasistemas to Google Apps Script",
+  "domain": "is-a.dev",
+  "subdomain": "scasistemas",
+  "owner": {
+    "email": "wealthconsultoriafinanceira@gmail.com"
+  },
+  "record": {
+    "URL": "https://script.google.com/macros/s/AKfycbw0sbyIXfuZXMvm2VHrbLa27AK9lGFW5nIy51l2yGWYXGUP96aUtaJll7rkYUpsf_Go/exec"
+  }
+}
